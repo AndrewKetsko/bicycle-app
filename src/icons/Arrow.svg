@@ -1,0 +1,19 @@
+<svg width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="10" height="5" fill="#E5E5E5"/>
+<g id="LAYOUT" clip-path="url(#clip0_0_1)">
+<rect width="1152" height="700" transform="translate(-169 -204)" fill="white"/>
+<g id="Group 2">
+<rect id="Rectangle 1" x="-156" y="-57" width="616" height="81" rx="9" fill="#E8E8E8" stroke="#6FCF97" stroke-width="2"/>
+<g id="Frame 3">
+<g id="Group 2_2">
+<path id="Vector" d="M0 0L5 5L10 0H0Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1152" height="700" fill="white" transform="translate(-169 -204)"/>
+</clipPath>
+</defs>
+</svg>
